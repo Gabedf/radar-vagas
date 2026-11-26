@@ -1,0 +1,168 @@
+{
+  "cabecalho": {
+    "versao_contrato": "1.0",
+    "modulo": "radar_vagas",
+    "gerado_em": "2026-11-26T14:19:59.871797-03:00",
+    "id_formando": "f03"
+  },
+  "id_vaga_alvo": "v26",
+  "itens": [
+    {
+      "habilidade": "Windows",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "alta",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v26"
+      ]
+    },
+    {
+      "habilidade": "Git",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "alta",
+      "obrigatoria": true,
+      "frequencia": 3,
+      "vagas_relacionadas": [
+        "v17",
+        "v21",
+        "vf03"
+      ]
+    },
+    {
+      "habilidade": "SQL",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 2,
+      "vagas_relacionadas": [
+        "v01",
+        "v06"
+      ]
+    },
+    {
+      "habilidade": "Comunicação",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v06"
+      ]
+    },
+    {
+      "habilidade": "Estatística",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v06"
+      ]
+    },
+    {
+      "habilidade": "Excel",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "intermediario",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v01"
+      ]
+    },
+    {
+      "habilidade": "Machine Learning",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v21"
+      ]
+    },
+    {
+      "habilidade": "pandas",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v21"
+      ]
+    },
+    {
+      "habilidade": "Python",
+      "nivel_atual": "basico",
+      "nivel_necessario": "intermediario",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v21"
+      ]
+    },
+    {
+      "habilidade": "Visualização de dados",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v06"
+      ]
+    },
+    {
+      "habilidade": "CI/CD",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "baixa",
+      "obrigatoria": false,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v17"
+      ]
+    },
+    {
+      "habilidade": "Kubernetes",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "baixa",
+      "obrigatoria": false,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "vf03"
+      ]
+    },
+    {
+      "habilidade": "Power BI",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "baixa",
+      "obrigatoria": false,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v01"
+      ]
+    },
+    {
+      "habilidade": "Terraform",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "baixa",
+      "obrigatoria": false,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "vf03"
+      ]
+    }
+  ]
+}

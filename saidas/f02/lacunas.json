@@ -1,0 +1,324 @@
+{
+  "cabecalho": {
+    "versao_contrato": "1.0",
+    "modulo": "radar_vagas",
+    "gerado_em": "2026-11-26T14:19:59.155466-03:00",
+    "id_formando": "f02"
+  },
+  "id_vaga_alvo": "v07",
+  "itens": [
+    {
+      "habilidade": "SQL",
+      "nivel_atual": "basico",
+      "nivel_necessario": "avancado",
+      "prioridade": "alta",
+      "obrigatoria": true,
+      "frequencia": 6,
+      "vagas_relacionadas": [
+        "v02",
+        "v05",
+        "v08",
+        "v23",
+        "vf01",
+        "vf02"
+      ]
+    },
+    {
+      "habilidade": "Linux",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "intermediario",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 3,
+      "vagas_relacionadas": [
+        "v15",
+        "v18",
+        "v19"
+      ]
+    },
+    {
+      "habilidade": "Redes de computadores",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "intermediario",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 3,
+      "vagas_relacionadas": [
+        "v15",
+        "v18",
+        "v19"
+      ]
+    },
+    {
+      "habilidade": "Testes automatizados",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 3,
+      "vagas_relacionadas": [
+        "v07",
+        "v12",
+        "vf02"
+      ]
+    },
+    {
+      "habilidade": "Apache Airflow",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 2,
+      "vagas_relacionadas": [
+        "v05",
+        "vf01"
+      ]
+    },
+    {
+      "habilidade": "Power BI",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "avancado",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 2,
+      "vagas_relacionadas": [
+        "v02",
+        "vf01"
+      ]
+    },
+    {
+      "habilidade": "Spring Boot",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 2,
+      "vagas_relacionadas": [
+        "v08",
+        "v23"
+      ]
+    },
+    {
+      "habilidade": "APIs REST",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v08"
+      ]
+    },
+    {
+      "habilidade": "Atendimento ao usuário",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v19"
+      ]
+    },
+    {
+      "habilidade": "Comunicação",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v20"
+      ]
+    },
+    {
+      "habilidade": "DAX",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v02"
+      ]
+    },
+    {
+      "habilidade": "Django",
+      "nivel_atual": "basico",
+      "nivel_necessario": "intermediario",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "vf02"
+      ]
+    },
+    {
+      "habilidade": "Estatística",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "vf01"
+      ]
+    },
+    {
+      "habilidade": "Excel",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "avancado",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v02"
+      ]
+    },
+    {
+      "habilidade": "JavaScript",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "intermediario",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v11"
+      ]
+    },
+    {
+      "habilidade": "Levantamento de requisitos",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v20"
+      ]
+    },
+    {
+      "habilidade": "Métodos ágeis",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v20"
+      ]
+    },
+    {
+      "habilidade": "React",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v11"
+      ]
+    },
+    {
+      "habilidade": "Segurança da informação",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v18"
+      ]
+    },
+    {
+      "habilidade": "Shell script",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v15"
+      ]
+    },
+    {
+      "habilidade": "Teste de software",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v12"
+      ]
+    },
+    {
+      "habilidade": "Virtualização",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v15"
+      ]
+    },
+    {
+      "habilidade": "Windows",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "media",
+      "obrigatoria": true,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v19"
+      ]
+    },
+    {
+      "habilidade": "AWS",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "baixa",
+      "obrigatoria": false,
+      "frequencia": 2,
+      "vagas_relacionadas": [
+        "v05",
+        "vf02"
+      ]
+    },
+    {
+      "habilidade": "Inglês",
+      "nivel_atual": "basico",
+      "nivel_necessario": "intermediario",
+      "prioridade": "baixa",
+      "obrigatoria": false,
+      "frequencia": 2,
+      "vagas_relacionadas": [
+        "v08",
+        "vf01"
+      ]
+    },
+    {
+      "habilidade": "Modelagem de processos",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "baixa",
+      "obrigatoria": false,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v20"
+      ]
+    },
+    {
+      "habilidade": "Modelagem dimensional",
+      "nivel_atual": "nenhum",
+      "nivel_necessario": "basico",
+      "prioridade": "baixa",
+      "obrigatoria": false,
+      "frequencia": 1,
+      "vagas_relacionadas": [
+        "v02"
+      ]
+    }
+  ]
+}
