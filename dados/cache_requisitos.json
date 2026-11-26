@@ -1,0 +1,1178 @@
+{
+  "v01:31c0c7d02806": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Excel intermediário",
+          "habilidade": "Excel",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Noções de SQL",
+          "habilidade": "SQL",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Conhecimento em Power BI",
+          "habilidade": "Power BI",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Python básico",
+          "habilidade": "Python",
+          "nivel_minimo": "basico",
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v02:3add4b041878": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Power BI avançado",
+          "habilidade": "Power BI",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Incluindo DAX",
+          "habilidade": "DAX",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "SQL intermediário",
+          "habilidade": "SQL",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Excel avançado",
+          "habilidade": "Excel",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Conhecimentos em modelagem dimensional",
+          "habilidade": "Modelagem dimensional",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v03:f57de06405fc": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Python avançado",
+          "habilidade": "Python",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Experiência sólida em machine learning (classificação e regressão)",
+          "habilidade": "Machine Learning",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "SQL intermediário",
+          "habilidade": "SQL",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Spark",
+          "habilidade": "Spark",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v04:68502d0f7a3c": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Bancos de dados relacionais (PostgreSQL ou SQL Server) em nível intermediário",
+          "habilidade": "SQL",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Python com pandas",
+          "habilidade": "Python",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Python com pandas",
+          "habilidade": "pandas",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Estatística básica",
+          "habilidade": "Estatística",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git para versionamento",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Inglês técnico para leitura",
+          "habilidade": "Inglês",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v05:91982a9b0fb8": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "SQL avançado",
+          "habilidade": "SQL",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Python intermediário",
+          "habilidade": "Python",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Apache Airflow ou outro orquestrador",
+          "habilidade": "Apache Airflow",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Experiência com serviços de nuvem (AWS, Azure ou GCP)",
+          "habilidade": "AWS",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Docker",
+          "habilidade": "Docker",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v06:4e93044cb20e": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Python ou R para análise de dados",
+          "habilidade": "Python",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Estatística descritiva",
+          "habilidade": "Estatística",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Visualização de dados",
+          "habilidade": "Visualização de dados",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Boa comunicação escrita",
+          "habilidade": "Comunicação",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "SQL",
+          "habilidade": "SQL",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v07:af0520724f56": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Python intermediário",
+          "habilidade": "Python",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Django básico",
+          "habilidade": "Django",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "SQL básico",
+          "habilidade": "SQL",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Testes com pytest",
+          "habilidade": "Testes automatizados",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Docker",
+          "habilidade": "Docker",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v08:7dc553fb3ca4": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Java intermediário",
+          "habilidade": "Java",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Spring Boot",
+          "habilidade": "Spring Boot",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "SQL intermediário",
+          "habilidade": "SQL",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "APIs REST",
+          "habilidade": "APIs REST",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Inglês intermediário",
+          "habilidade": "Inglês",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v09:877feb98816f": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Lógica de programação e uma linguagem orientada a objetos (Python ou Java)",
+          "habilidade": "Lógica de programação",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Lógica de programação e uma linguagem orientada a objetos (Python ou Java)",
+          "habilidade": "Python",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Noções de banco de dados",
+          "habilidade": "SQL",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Vontade de aprender e trabalhar em equipe",
+          "habilidade": "Trabalho em equipe",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git básico",
+          "habilidade": "Git",
+          "nivel_minimo": "basico",
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v10:5d7f19e5d13a": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Python avançado",
+          "habilidade": "Python",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Django ou FastAPI em produção",
+          "habilidade": "Django",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Mensageria (RabbitMQ ou Kafka)",
+          "habilidade": "Mensageria",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Docker e Kubernetes",
+          "habilidade": "Docker",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Docker e Kubernetes",
+          "habilidade": "Kubernetes",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Inglês avançado",
+          "habilidade": "Inglês",
+          "nivel_minimo": "avancado",
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v11:d41d2774133a": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "JavaScript intermediário",
+          "habilidade": "JavaScript",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "React",
+          "habilidade": "React",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Python com Django ou Node.js",
+          "habilidade": "Python",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Python com Django ou Node.js",
+          "habilidade": "Django",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "SQL",
+          "habilidade": "SQL",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v12:983e9fbe326d": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Fundamentos de teste de software",
+          "habilidade": "Teste de software",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Automação de testes com Python (pytest) ou Java",
+          "habilidade": "Testes automatizados",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Python básico",
+          "habilidade": "Python",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "SQL básico",
+          "habilidade": "SQL",
+          "nivel_minimo": "basico",
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Git",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v13:f302f9fad667": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "HTML, CSS e JavaScript intermediários",
+          "habilidade": "HTML",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "HTML, CSS e JavaScript intermediários",
+          "habilidade": "CSS",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "HTML, CSS e JavaScript intermediários",
+          "habilidade": "JavaScript",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "React ou Vue",
+          "habilidade": "React",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "TypeScript",
+          "habilidade": "TypeScript",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Noções de acessibilidade",
+          "habilidade": "Acessibilidade",
+          "nivel_minimo": "basico",
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v14:cf020584b4a2": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Redes de computadores básico",
+          "habilidade": "Redes de computadores",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Windows e Linux",
+          "habilidade": "Windows",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Windows e Linux",
+          "habilidade": "Linux",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Boa comunicação com usuários",
+          "habilidade": "Comunicação",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Shell script",
+          "habilidade": "Shell script",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v15:6d21e7bf5469": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Linux intermediário",
+          "habilidade": "Linux",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Redes TCP/IP intermediário",
+          "habilidade": "Redes de computadores",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Virtualização",
+          "habilidade": "Virtualização",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Scripts em Shell",
+          "habilidade": "Shell script",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Docker",
+          "habilidade": "Docker",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v16:0c55b9d4710e": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Kubernetes intermediário",
+          "habilidade": "Kubernetes",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Terraform",
+          "habilidade": "Terraform",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "AWS",
+          "habilidade": "AWS",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "CI/CD",
+          "habilidade": "CI/CD",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Linux avançado",
+          "habilidade": "Linux",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v17:0532bffef9a9": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Linux básico",
+          "habilidade": "Linux",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Docker básico",
+          "habilidade": "Docker",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Python ou Shell script",
+          "habilidade": "Python",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Noções de CI/CD",
+          "habilidade": "CI/CD",
+          "nivel_minimo": "basico",
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v18:fa2822ae1936": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Redes de computadores intermediário",
+          "habilidade": "Redes de computadores",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Linux intermediário",
+          "habilidade": "Linux",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Fundamentos de segurança da informação",
+          "habilidade": "Segurança da informação",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Python para automação",
+          "habilidade": "Python",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v19:052aa55081f8": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Windows e Linux básicos",
+          "habilidade": "Windows",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Windows e Linux básicos",
+          "habilidade": "Linux",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Redes básico",
+          "habilidade": "Redes de computadores",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Atendimento ao usuário",
+          "habilidade": "Atendimento ao usuário",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v20:7d2afdb4d985": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Levantamento de requisitos",
+          "habilidade": "Levantamento de requisitos",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Métodos ágeis",
+          "habilidade": "Métodos ágeis",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Boa comunicação oral e escrita",
+          "habilidade": "Comunicação",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Noções de SQL",
+          "habilidade": "SQL",
+          "nivel_minimo": "basico",
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Modelagem de processos (BPMN)",
+          "habilidade": "Modelagem de processos",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v21:9a7d92d25de4": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Python intermediário",
+          "habilidade": "Python",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Fundamentos de machine learning",
+          "habilidade": "Machine Learning",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Pandas",
+          "habilidade": "pandas",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Inglês intermediário",
+          "habilidade": "Inglês",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v22:bf90cba00f36": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "SQL avançado",
+          "habilidade": "SQL",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Python avançado",
+          "habilidade": "Python",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Estatística avançada",
+          "habilidade": "Estatística",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Power BI",
+          "habilidade": "Power BI",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v23:b66524178602": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Java intermediário",
+          "habilidade": "Java",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "SQL intermediário",
+          "habilidade": "SQL",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Docker",
+          "habilidade": "Docker",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Spring Boot",
+          "habilidade": "Spring Boot",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v24:39f4d0669f24": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Linux intermediário",
+          "habilidade": "Linux",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Redes intermediário",
+          "habilidade": "Redes de computadores",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Atendimento ao usuário",
+          "habilidade": "Atendimento ao usuário",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Shell script",
+          "habilidade": "Shell script",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Docker",
+          "habilidade": "Docker",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v25:c29033f67bf2": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Python intermediário",
+          "habilidade": "Python",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "SQL intermediário",
+          "habilidade": "SQL",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Pandas",
+          "habilidade": "pandas",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Testes automatizados",
+          "habilidade": "Testes automatizados",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Docker",
+          "habilidade": "Docker",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v26:49cdf078bbb6": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Windows e Linux",
+          "habilidade": "Windows",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Windows e Linux",
+          "habilidade": "Linux",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Atendimento ao usuário",
+          "habilidade": "Atendimento ao usuário",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Inglês intermediário",
+          "habilidade": "Inglês",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "v27:72900d8154e5": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "SQL avançado",
+          "habilidade": "SQL",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Power BI avançado",
+          "habilidade": "Power BI",
+          "nivel_minimo": "avancado",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Liderança de equipes",
+          "habilidade": "Liderança",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "vf01:2fab4e48915c": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "SQL intermediário",
+          "habilidade": "SQL",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Python básico para tratamento de dados",
+          "habilidade": "Python",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Power BI intermediário",
+          "habilidade": "Power BI",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Conhecimentos de estatística descritiva",
+          "habilidade": "Estatística",
+          "nivel_minimo": null,
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git",
+          "habilidade": "Git",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Noções de Apache Airflow",
+          "habilidade": "Apache Airflow",
+          "nivel_minimo": "basico",
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Inglês intermediário para leitura",
+          "habilidade": "Inglês",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "vf02:ac44cde8aaf4": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Python intermediário",
+          "habilidade": "Python",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Django intermediário",
+          "habilidade": "Django",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "SQL intermediário",
+          "habilidade": "SQL",
+          "nivel_minimo": "intermediario",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Noções de testes automatizados",
+          "habilidade": "Testes automatizados",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Docker",
+          "habilidade": "Docker",
+          "nivel_minimo": null,
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Noções de AWS",
+          "habilidade": "AWS",
+          "nivel_minimo": "basico",
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  },
+  "vf03:61c7c5a0bf62": {
+    "regras": {
+      "origem": "regras",
+      "requisitos": [
+        {
+          "descricao": "Linux básico",
+          "habilidade": "Linux",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Redes básico",
+          "habilidade": "Redes de computadores",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Docker básico",
+          "habilidade": "Docker",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Git básico",
+          "habilidade": "Git",
+          "nivel_minimo": "basico",
+          "obrigatorio": true
+        },
+        {
+          "descricao": "Noções de Kubernetes",
+          "habilidade": "Kubernetes",
+          "nivel_minimo": "basico",
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Noções de Terraform",
+          "habilidade": "Terraform",
+          "nivel_minimo": "basico",
+          "obrigatorio": false
+        },
+        {
+          "descricao": "Python básico",
+          "habilidade": "Python",
+          "nivel_minimo": "basico",
+          "obrigatorio": false
+        }
+      ],
+      "versao": "regras-1-dic-2c6ee102"
+    }
+  }
+}
