@@ -1,0 +1,4 @@
+# Normaliza quebras de linha para LF no repositório (Windows, Linux e macOS)
+* text=auto eol=lf
+*.png binary
+*.pdf binary
