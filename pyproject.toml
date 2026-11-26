@@ -1,0 +1,34 @@
+[build-system]
+requires = ["setuptools>=68"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "radar-vagas"
+version = "0.1.0"
+description = "Módulo 3 do ecossistema \"Do diploma ao primeiro emprego\": radar de vagas (aderência, ranking e lacunas)"
+requires-python = ">=3.10"
+dependencies = [
+    "carreira-contratos>=1.0,<2",
+    "agno==3.2.0",
+    "fastapi[standard]>=0.115",
+    "sqlalchemy[asyncio]>=2.0",
+    "python-dotenv>=1.0",
+    "pyyaml>=6",
+]
+
+[project.optional-dependencies]
+testes = ["pytest", "httpx"]
+groq = ["groq"]
+google = ["google-genai"]
+
+[project.scripts]
+radar-vagas = "radar_vagas.cli:main"
+
+[tool.setuptools.packages.find]
+where = ["src"]
+
+[tool.setuptools.package-data]
+radar_vagas = ["dados/*.yaml"]
+
+[tool.pytest.ini_options]
+testpaths = ["tests"]
