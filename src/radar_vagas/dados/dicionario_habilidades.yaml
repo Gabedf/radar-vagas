@@ -1,0 +1,205 @@
+# Dicionário de habilidades do radar de vagas (F3).
+#
+# Formato:   Nome canônico:
+#              categoria: tecnica | ferramenta | comportamental | idioma
+#              aliases: [outras formas de escrever a mesma habilidade]
+#
+# Regras:
+# - O NOME CANÔNICO é o que aparece nas saídas. Ele precisa ser igual ao nome
+#   usado nos currículos ("SQL", "Python", "Power BI", "Redes de computadores"...),
+#   porque a comparação vaga x currículo é feita pelo nome canônico.
+# - O próprio nome canônico já conta como alias; não precisa repeti-lo.
+# - Acentos e maiúsculas não importam: tudo é normalizado antes de comparar.
+# - Na busca em texto, o alias MAIS LONGO vence ("sql server" antes de "sql").
+# - Alterar este arquivo muda a versão do cache das extrações por regras.
+
+# ------------------------------------------------------------ dados e BI
+SQL:
+  categoria: tecnica
+  aliases: [consultas sql, linguagem sql, postgresql, postgres, mysql, sql server,
+            oracle database, sqlite, t-sql, pl/sql, banco de dados, bancos de dados,
+            banco de dados relacional, bancos de dados relacionais]
+Python:
+  categoria: tecnica
+  aliases: [python3, python 3, linguagem python]
+pandas:
+  categoria: ferramenta
+  aliases: [biblioteca pandas]
+Estatística:
+  categoria: tecnica
+  aliases: [estatistica descritiva, estatistica inferencial, estatistica aplicada]
+Power BI:
+  categoria: ferramenta
+  aliases: [powerbi, power-bi, microsoft power bi]
+DAX:
+  categoria: tecnica
+  aliases: [linguagem dax]
+Excel:
+  categoria: ferramenta
+  aliases: [microsoft excel, ms excel]
+Apache Airflow:
+  categoria: ferramenta
+  aliases: [airflow]
+Spark:
+  categoria: ferramenta
+  aliases: [apache spark, pyspark]
+Machine Learning:
+  categoria: tecnica
+  aliases: [aprendizado de maquina, aprendizagem de maquina]
+Modelagem dimensional:
+  categoria: tecnica
+  aliases: [modelagem de dados dimensional, star schema]
+Visualização de dados:
+  categoria: tecnica
+  aliases: [visualizacao da informacao, data visualization]
+R:
+  categoria: tecnica
+  aliases: [linguagem r]
+scikit-learn:
+  categoria: ferramenta
+  aliases: [sklearn, scikit learn]
+Matplotlib:
+  categoria: ferramenta
+  aliases: []
+Plotly:
+  categoria: ferramenta
+  aliases: []
+
+# ------------------------------------------------------ desenvolvimento
+Java:
+  categoria: tecnica
+  aliases: [linguagem java]
+Spring Boot:
+  categoria: ferramenta
+  aliases: [spring, spring framework]
+Django:
+  categoria: ferramenta
+  aliases: [framework django]
+Django REST Framework:
+  categoria: ferramenta
+  aliases: [drf, django rest]
+FastAPI:
+  categoria: ferramenta
+  aliases: [fast api]
+Flask:
+  categoria: ferramenta
+  aliases: []
+APIs REST:
+  categoria: tecnica
+  aliases: [api rest, apis rest, rest api, rest apis, api restful, apis restful, restful]
+JavaScript:
+  categoria: tecnica
+  aliases: [js, ecmascript]
+TypeScript:
+  categoria: tecnica
+  aliases: [ts]
+HTML:
+  categoria: tecnica
+  aliases: [html5]
+CSS:
+  categoria: tecnica
+  aliases: [css3]
+React:
+  categoria: ferramenta
+  aliases: [react.js, reactjs]
+Vue:
+  categoria: ferramenta
+  aliases: [vue.js, vuejs]
+Node.js:
+  categoria: ferramenta
+  aliases: [nodejs, node]
+Lógica de programação:
+  categoria: tecnica
+  aliases: [logica de programacao, algoritmos]
+Testes automatizados:
+  categoria: tecnica
+  aliases: [teste automatizado, automacao de testes, automacao de teste, testes com pytest,
+            pytest, testes unitarios, testes de unidade, junit]
+Teste de software:
+  categoria: tecnica
+  aliases: [testes de software, fundamentos de teste de software, fundamentos de testes,
+            qualidade de software]
+Mensageria:
+  categoria: tecnica
+  aliases: [filas de mensagens, rabbitmq, kafka, apache kafka]
+Acessibilidade:
+  categoria: tecnica
+  aliases: [acessibilidade web, wcag]
+
+# ------------------------------------------------- infraestrutura e DevOps
+Linux:
+  categoria: tecnica
+  aliases: [gnu/linux]
+Windows:
+  categoria: ferramenta
+  aliases: [microsoft windows, windows server]
+Redes de computadores:
+  categoria: tecnica
+  aliases: [redes, redes tcp/ip, tcp/ip, redes de dados]
+Shell script:
+  categoria: tecnica
+  aliases: [shell scripts, scripts em shell, script em shell, scripts shell, shell, bash]
+Docker:
+  categoria: ferramenta
+  aliases: [conteineres, conteiner, containers, container]
+Kubernetes:
+  categoria: ferramenta
+  aliases: [k8s]
+Terraform:
+  categoria: ferramenta
+  aliases: []
+AWS:
+  categoria: ferramenta
+  aliases: [amazon web services]
+Azure:
+  categoria: ferramenta
+  aliases: [microsoft azure]
+GCP:
+  categoria: ferramenta
+  aliases: [google cloud, google cloud platform]
+CI/CD:
+  categoria: tecnica
+  aliases: [ci cd, integracao continua, entrega continua, pipelines de ci/cd]
+Virtualização:
+  categoria: tecnica
+  aliases: [vmware, virtualbox, hyper-v]
+Segurança da informação:
+  categoria: tecnica
+  aliases: [fundamentos de seguranca da informacao, ciberseguranca, seguranca cibernetica]
+Git:
+  categoria: ferramenta
+  aliases: [github, gitlab, controle de versao, versionamento]
+
+# ------------------------------------------------------- gestão e negócio
+Levantamento de requisitos:
+  categoria: tecnica
+  aliases: [engenharia de requisitos, historias de usuario]
+Métodos ágeis:
+  categoria: tecnica
+  aliases: [metodologias ageis, scrum, kanban]
+Modelagem de processos:
+  categoria: tecnica
+  aliases: [bpmn]
+
+# ---------------------------------------------------------- comportamentais
+Comunicação:
+  categoria: comportamental
+  aliases: [boa comunicacao, comunicacao escrita, comunicacao oral, comunicacao oral e escrita]
+Trabalho em equipe:
+  categoria: comportamental
+  aliases: [trabalhar em equipe, trabalho em time]
+Atendimento ao usuário:
+  categoria: comportamental
+  aliases: [atendimento a usuarios, atendimento aos usuarios, atendimento ao cliente,
+            suporte ao usuario]
+Liderança:
+  categoria: comportamental
+  aliases: [lideranca de equipes, lideranca de equipe, gestao de pessoas]
+
+# ------------------------------------------------------------------ idiomas
+Inglês:
+  categoria: idioma
+  aliases: [ingles tecnico, lingua inglesa, english]
+Espanhol:
+  categoria: idioma
+  aliases: [lingua espanhola]
